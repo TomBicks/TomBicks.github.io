@@ -35,3 +35,11 @@
 .folio-item:hover img {
 	opacity: 0;
 }
+
+.item-title {
+	
+}
+
+.item-link {
+	color: blue;
+}
